@@ -1,4 +1,4 @@
-module github.com/maaslalani/nap
+module github.com/sigma2647/nap-git
 
 go 1.19
 
